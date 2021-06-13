@@ -1,3 +1,0 @@
-- name: Run Ansible playbook
-  uses: dawidd6/action-ansible-playbook@v2.3.0
-
